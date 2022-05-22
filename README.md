@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dontechmann
-- 👀 I’m interested in finance, data science, python...
-- 🌱 I’m currently learning investment methodology, programming, algorithm.
+- 👀 I’m interested in investment methodology, programming, algorithm & data science.
 - 💞️ I’m looking to collaborate on various fields, especially financial territory. 
 
 <!---
